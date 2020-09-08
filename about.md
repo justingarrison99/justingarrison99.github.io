@@ -5,6 +5,8 @@ permalink: /about/
 ---
 
 Justin Garrison
+
+
 CSCI @ COFC
 
 ### More Information
