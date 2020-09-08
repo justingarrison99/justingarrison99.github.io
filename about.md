@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Justin Garrison
+CSCI @ COFC
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm in a local rock band called Sandcastle.
+Here's a link to our [soundcloud](https://soundcloud.com/sandcastlebandofficial)
+EP releasing in the coming months!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[garrisonjd@g.cofc.edu](mailto:garrisonjd@g.cofc.edu)
