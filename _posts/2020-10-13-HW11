@@ -1,0 +1,22 @@
+---
+layout: post
+title: "HW11: Chapter 9"
+---
+
+9.8. Briefly describe the three main types of software maintenance. Why is it sometimes difficult to distinguish between them?
+
+The three main types of software maintenance include: 
+		1.	Fault repairs to fix bugs and vulnerabilities.
+					a.	This type of software maintenance focuses on fixing errors as simple as coding errors to as complex as software design and requirement errors. 
+		2.	Environmental Adaptation to adapt to software to new platforms and environments.
+					a.	This type of software maintenance comes as a result when the environments (e.g. JRE) or platforms (e.g. iOS 13 -> iOS 14) change.
+					b.	As these aspects of the software change, the software must be adapted to fit to the new standards, procedures, syntax, etc.. of the new versioned 							environment or to the hardware specifications of a new platform. 
+		3.	Functionality addition to add new features and to support new requirements.
+					a.	This type of software maintenance focuses on the expansion of the software from its original requirements or functionality.
+
+These are sometimes difficult to distinguish between because oftentimes one type comes as a result or consequence of another type, for example when new functionality is added it may break an already defined function so then you must perform both fault repair and functionality addition.
+
+
+9.10. Do software engineers have a professional responsibility to develop code that can be easily maintained even if their employer does not explicitly request it?
+
+Yes, not only software engineers have a professional responsibility to write easily maintainable code, but they also have a personal responsibility to do so. Software engineers are not just one-off code writers, and by no means do ANY software engineers have the innate ability to write perfect code as stated by Fredrich Brooks Jr in No Silver Bullet. What distinguishes someone who just writes code from a software engineer? Software engineers write code with the expectation that it will be far from the last time they will review, reference, or even change the code they have written, i.e. software engineers must be responsible for the code they have produce (professionally or amateurly). With this being said, it’s a disservice to the software engineer in question, and Software engineering as a whole, to not emphasize the importance of maintainability in their code. In regard to software maintenance this importance is even more 
